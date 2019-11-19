@@ -1,37 +1,37 @@
 ---
-title: Quick Start
+શીર્ષક: ઝડપી શરૂઆત
 ---
 
-This quick start is intended for intermediate to advanced developers. For a gentler intro to Gatsby, [head to our tutorial](/tutorial/)!
+આ ઝડપી શરૂઆતનો હેતુ મધ્યમ ડેવલપર થી અદ્યતન ડેવલપર માટે બનાવાયેલ છે. એક હળવી પ્રસ્તાવના માટે Gatsby, [head to our tutorial](/ટ્યુટોરિયલ/)!
 
-## Use the Gatsby CLI
+## Gatsby CLI નો ઉપયોગ કરો
 
 <EggheadEmbed
   lessonLink="https://egghead.io/lessons/gatsby-quick-start-with-gatsby-create-develop-and-build-gatsby-sites-from-the-command-line"
-  lessonTitle="Quick Start with Gatsby: Create, Develop, and Build Gatsby Sites From the Command Line"
+  lessonTitle="Gatsby સાથે ઝડપી પ્રારંભ: કમાન્ડ લાઇનથી Gatsby સાઇટ્સ બનાવો, ડેવલોપ કરો અને નિર્માણ કરો"
 />
 
-**Note**: this video uses `npx`, which is a tool to execute an npm package without first installing it. Running the command `npx gatsby new` is the same as running `gatsby new` after installing the gatsby-cli on your computer.
+**નોંધ**: આ વિડિઓ માં `npx` નો ઉપયોગ  થયો છે, જે npm પેકેજને પ્રથમ ઇન્સ્ટોલ કર્યા વિના ચલાવવાનું એક સાધન છે. તમારા કમ્પ્યુટર પર Gatsby-CLI સ્થાપિત કર્યા પછી આદેશ `npx gatsby new` ચાલવો એ `gatsby new` ચાલવા જેવું જ છે.
 
-### Install the Gatsby CLI.
+### Gatsby CLI ઇન્સટોલ કરો.
 
 ```shell
 npm install -g gatsby-cli
 ```
 
-### Create a new site.
+### નવી સાઇટ બનાવો.
 
 ```shell
 gatsby new gatsby-site
 ```
 
-### Change directories into site folder.
+### ડિરેક્ટરીઓને સાઇટ ફોલ્ડરમાં બદલો.
 
 ```shell
 cd gatsby-site
 ```
 
-### Start development server.
+### ડેવલપમેન્ટ સર્વર પ્રારંભ કરો.
 
 ```shell
 gatsby develop
