@@ -13,61 +13,37 @@ title: ઝડપી શરૂઆત
 
 **નોંધ**: આ વિડિઓ માં `npx` નો ઉપયોગ  થયો છે, જે npm પેકેજને પ્રથમ ઇન્સ્ટોલ કર્યા વિના ચલાવવાનું એક સાધન છે. તમારા કમ્પ્યુટર પર Gatsby-CLI સ્થાપિત કર્યા પછી કમાન્ડ `npx gatsby new` ચલાવો એ `gatsby new` ચલાવવા જેવું જ છે.
 
-<<<<<<< HEAD
-### Gatsby CLI ઇન્સટોલ કરો.
-=======
-### Install the Gatsby CLI
->>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
+### Gatsby CLI ઇન્સટોલ કરો
 
 ```shell
 npm install -g gatsby-cli
 ```
 
-<<<<<<< HEAD
-### નવી સાઇટ બનાવો.
-=======
 > The above command installs Gatsby CLI globally on your machine.
 
-### Create a new site
->>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
+### નવી સાઇટ બનાવો
 
 ```shell
 gatsby new gatsby-site
 ```
 
-<<<<<<< HEAD
-### ડિરેક્ટરીઓને સાઇટ ફોલ્ડરમાં બદલો.
-=======
-### Change directories into site folder
->>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
+### ડિરેક્ટરીઓને સાઇટ ફોલ્ડરમાં બદલો
 
 ```shell
 cd gatsby-site
 ```
 
-<<<<<<< HEAD
-### ડેવલપમેન્ટ સર્વર પ્રારંભ કરો.
-=======
-### Start development server
->>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
+### ડેવલપમેન્ટ સર્વર પ્રારંભ કરો
 
 ```shell
 gatsby develop
 ```
 
-<<<<<<< HEAD
-Gatsby એ ડિફોલટ રૂપે `localhost:8000` ઉપયોગ કરી શકાય તેવા હોટ રિલોડીંગ ડેવલપમેન્ટ એન્વાયર્નમેન્ટ ની શરૂઆત કરશે.
-=======
-Gatsby will start a hot-reloading development environment accessible by default at `http://localhost:8000`.
->>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
+Gatsby એ ડિફોલટ રૂપે `http://localhost:8000` ઉપયોગ કરી શકાય તેવા હોટ રિલોડીંગ ડેવલપમેન્ટ એન્વાયર્નમેન્ટ ની શરૂઆત કરશે.
 
 `src/pages` માં જાવાસ્ક્રિપ્ટ પૃષ્ઠોને સંપાદિત કરવાનો પ્રયાસ કરો. સાચવેલ ફેરફારો બ્રાઉઝરમાં લાઇવ ફરીથી લોડ કરશે
 
-<<<<<<< HEAD
-### એક પ્રોડક્શન બિલ્ડ બનાવો.
-=======
-### Create a production build
->>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
+### એક પ્રોડક્શન બિલ્ડ બનાવો
 
 ```shell
 gatsby build
@@ -75,11 +51,7 @@ gatsby build
 
 Gatsby તમારી સાઇટ માટે ઓપ્ટિમાઇઝ પ્રોડક્શન બિલ્ડ બનાવશે, જે રૂટ દીઠ સ્ટેટીક HTML અને જાવાસ્ક્રિપ્ટ કોડ બનાવશે.
 
-<<<<<<< HEAD
-### પ્રોડક્શન બિલ્ડ ને સ્થાનિક રીતે સર્વે કરો.
-=======
-### Serve the production build locally
->>>>>>> 90932a06db2e297cf416552b84e48b4b82e56fbc
+### પ્રોડક્શન બિલ્ડ ને સ્થાનિક રીતે સર્વે કરો
 
 ```shell
 gatsby serve
