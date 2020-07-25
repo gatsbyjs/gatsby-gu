@@ -19,7 +19,7 @@ title: ઝડપી શરૂઆત
 npm install -g gatsby-cli
 ```
 
-> The above command installs Gatsby CLI globally on your machine.
+> ઉપરોક્ત કમાન્ડ તમારા મશીન પર globally Gatsby CLI સ્થાપિત કરશે
 
 ### નવી સાઇટ બનાવો
 
